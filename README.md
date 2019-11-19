@@ -1,2 +1,1 @@
-# EnsembleClassifiers
-Tbilisi State University workshop - notebook &amp; slides
+Basic ensemble classifier example
